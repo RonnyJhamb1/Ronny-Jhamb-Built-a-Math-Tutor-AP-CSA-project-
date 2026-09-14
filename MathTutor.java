@@ -1,7 +1,7 @@
 //Math Tutor AP CSA Project
 //Ronny Jhamb
-//Instantiate a Scanner Object and use Scanner Library
-//Sources : Code.org 
+//Instantiate a Scanner Object and use Scanner Library, print out options for User to pick a problem 
+//Sources : Code.org, Mothers help 
 
 
 
