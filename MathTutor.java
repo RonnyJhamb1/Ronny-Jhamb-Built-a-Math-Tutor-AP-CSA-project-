@@ -1,7 +1,7 @@
 //Math Tutor AP CSA Project
 //Ronny Jhamb
 //Instantiate a Scanner Object and use Scanner Library, print out options for User to pick a problem 
-//Sources : Code.org, Mothers help 
+//Sources : Code.org, User input code given from project build a Math Tutor Directions 
 
 
 
@@ -35,10 +35,22 @@ System.out.println("Enter the number of the problem you want to solve (example: 
 int user_input = input.nextInt();
 
 
-
-     input.close();
+if ( user_input ==1) {
+ AreaofTriangle problem = new AreaofTriangle () ;
+problem.solveAreaTriangle();
  
     }
 
+    if ( user_input ==2) {
+ AreaofaCircle problem = new AreaofaCircle () ;
+ problem.solveAreaOfCircle () ;
  }
+
+if ( user_input ==3) {
+ PythagoreanTheorm problem = new PythagoreanTheorm () ;
+ problem.solvePythoTherom() ;
+ }
+
+ }
+}
  

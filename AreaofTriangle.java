@@ -6,17 +6,13 @@
 //Resources: Code.org
 
 import java.util.Scanner;
-
 public class AreaofTriangle
 {
 
-    private double height;
-
-    height = input.nxtDouble();
-
-    private double base;
-
-    base = input.nxtDouble();
+  
+private double height;
+private double base;
+ private double area_of_tri;
 
     public AreaofTriangle ()
     {
@@ -24,18 +20,21 @@ public class AreaofTriangle
         System.out.println("Please input a height value");
         System.out.println("Please input a base value");
 
+         Scanner input = new Scanner(System.in);             
+      height = input.nextDouble();
+     base = input.nextDouble();
+
     }
 
 
 public double solveAreaTriangle(){
 
-private double area;
+double area_of_tri = base*height*1/2;
 
-area = base*height*1/2;
-
-System.out.println("The area of the Triangle with" + base + "as the base and" + height + "as the height is" + area);
+System.out.println("Areaof the triangle " + area_of_tri) ;
 
 
+return area_of_tri;
 }
 
 }
