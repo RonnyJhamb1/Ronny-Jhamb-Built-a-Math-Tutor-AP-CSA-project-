@@ -1,4 +1,4 @@
-//Math Tutor AP CSA Project
+//Math Tutor AP CSA Project class
 //Ronny Jhamb
 //Instantiate a Scanner Object and use Scanner Library, print out options for User to pick a problem 
 //Sources : Code.org, User input code given from project build a Math Tutor Directions 
@@ -28,7 +28,10 @@ import java . util . Scanner;
 
      System.out.println("1. Area of a Triangle");
      System.out.println("2. Area of a Circle");
-     System.out.println( "3. Pythagorean Theorem \n");
+     System.out.println( "3. Pythagorean Theorem");
+     System.out.println( "4. Volume of a Sphere");
+     System.out.println( "5. Convert Fahrenheit into Celsius \n");
+     
 
 
 System.out.println("Enter the number of the problem you want to solve (example: 1 = Area of a Triange etc.) : ");
@@ -51,6 +54,20 @@ if ( user_input ==3) {
  problem.solvePythoTherom() ;
  }
 
- }
+if (user_input ==4) {
+VolumeofAsphere problem = new VolumeofAsphere();
+problem.volofsphere();
+
 }
+
+if(user_input == 5) {
+Temperatureconverter problem = new Temperatureconverter() ;
+problem.Temperatureconverter() ;
+
+}
+
+}
+
+}
+ 
  

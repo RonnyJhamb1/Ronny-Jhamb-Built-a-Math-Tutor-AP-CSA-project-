@@ -15,7 +15,7 @@ private double radius;
 
     public AreaofaCircle ()
     {
-
+        System.out.println("The formula for the area of a cirlce is PIr^2   \n \n ");
         System.out.println("Please input a value for the circles radius");
       
 
@@ -30,7 +30,7 @@ public double solveAreaOfCircle(){
 
 double area_of_circ = Math.PI*Math.pow(radius,2);
 
-System.out.println("The Area of the cirlce with a raidus of   " + radius + "   is equal to   " + area_of_circ) ;
+System.out.println("The Area of the cirlce with a raidus of   " + radius + "   is equal to   " + area_of_circ +  "   units ^ 2") ;
 
 
 return area_of_circ;
