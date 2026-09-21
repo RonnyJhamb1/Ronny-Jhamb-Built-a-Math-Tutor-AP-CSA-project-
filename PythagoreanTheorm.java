@@ -1,6 +1,6 @@
 //PythagoreanTherom Class
 //Ronny Jhamb
-//This class grabs the user input for 2 values which then those two values are used to solve the pythagorean therom and get the hypotenuse
+//Purpose:This class grabs the user input for 2 values which then those two values are used to solve the pythagorean therom and get the hypotenuse
 //Sources: Code.org
 
 

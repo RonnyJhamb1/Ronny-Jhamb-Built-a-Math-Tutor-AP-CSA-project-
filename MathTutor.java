@@ -1,6 +1,6 @@
 //Math Tutor AP CSA Project class
 //Ronny Jhamb
-//Instantiate a Scanner Object and use Scanner Library, print out options for User to pick a problem 
+//Purpose:Instantiate a Scanner Object and use Scanner Library, print out options for User to pick a problem 
 //Sources : Code.org, User input code given from project build a Math Tutor Directions 
 
 

@@ -1,6 +1,6 @@
 //Volume of a Sphere class
 //Ronny Jhamb
-//The Putpose of this class is to find the volume of a sphere from a given radius found with the user input 
+//Purpose: this class is to find the volume of a sphere from a given radius found with the user input 
 //Sources: Code.org
 
 

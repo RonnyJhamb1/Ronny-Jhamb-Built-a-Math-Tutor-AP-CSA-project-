@@ -1,6 +1,6 @@
 //Area of Circle Class 
 //Ronny Jhamb
-//Class that has logic to Find Area of Circle with User Input
+//Purpose: Class that has logic to Find Area of Circle with User Input with its radius
 
 
 //Resources: Code.org

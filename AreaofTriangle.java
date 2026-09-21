@@ -1,6 +1,6 @@
 //Area of Triangle class
 //Ronny Jhamb
-//Class that has logic to Find Area of Triangle with User Input
+//Purpose:Class that has logic to Find Area of Triangle with User Input with the base and height
 
 
 //Resources: Code.org

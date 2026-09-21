@@ -1,6 +1,6 @@
 //TemperatureConverter class
 //Ronny Jhamb
-//The Putpose of this class is to convert Fahrenheit into Celcius with the user input 
+//The Purpose of this class is to convert Fahrenheit into Celcius with the user input 
 //Sources: Code.org
 
 
