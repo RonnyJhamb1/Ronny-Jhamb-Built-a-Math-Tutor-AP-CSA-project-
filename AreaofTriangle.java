@@ -32,7 +32,7 @@ public double solveAreaTriangle(){
 
 double area_of_tri = base*height*1/2;
 
-System.out.println("Area of the triangle is " + area_of_tri) ;
+System.out.println("Area of the triangle is " + area_of_tri + "   units ^2") ;
 
 
 return area_of_tri;
